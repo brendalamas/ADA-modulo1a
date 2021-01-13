@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\06 Frutas"
+		},
+		{
+			"path": "..\\07 Paleta de Colores"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "02 Presentacion modo oscuro"
+	}
+}
